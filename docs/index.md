@@ -1,4 +1,4 @@
-# RAG-VisualRec {align=center}
+# RAG-VisualRec
 
 ## Title 1
 
