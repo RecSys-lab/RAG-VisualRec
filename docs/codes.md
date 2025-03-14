@@ -1,4 +1,4 @@
-# RAG-VisualRec - Sample Codes
+# Pipeline Codes
 
 ## 🧑🏻‍💻 Available Notebooks
 

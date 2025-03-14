@@ -1,6 +1,8 @@
 # RAG-VisualRec
 
-This repository presents a resource for **Multi-Modal Learning** in Visual RAGs.
+This repository contains a resource for **Multi-Modal Learning** in Visual RAGs and Collaborative Filtering with side information.
+
+![RAG-VisualRec](./rag-demo.png "RAG-VisualRec")
 
 ## Title 1
 
