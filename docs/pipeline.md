@@ -1,6 +1,6 @@
 # 👣 Pipeline Walkthrough
 
-```mermaid
+<!-- ```mermaid
 flowchart TD
     A[📂 Data Preparation<br/>Load MovieLens + Metadata] --> B[🧩 Embedding Extraction<br/>Text • Visual • Audio]
     B --> C[🔀 Fusion<br/>Concat • PCA • CCA • Avg]
@@ -18,7 +18,7 @@ flowchart TD
     style F fill:#f2e6ff,stroke:#333,stroke-width:1px
     style G fill:#f2e6ff,stroke:#333,stroke-width:1px
     style H fill:#d9ead3,stroke:#333,stroke-width:1px
-```
+``` -->
 
 ## 1️⃣ Data Preparation and Ingestion
 
