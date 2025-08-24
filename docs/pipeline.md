@@ -1,4 +1,4 @@
-# Pipeline Walkthrough
+# 👣 Pipeline Walkthrough
 
 ```mermaid
 flowchart TD

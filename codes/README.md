@@ -3,7 +3,7 @@
 Here you can find **Google Colab** notebooks related to RAG-VisualRec in the below:
 
 ## 🚀 Pipeline
-- [RAG-VisualRec Pipeline](https://github.com/RecSys-lab/RAG-VisualRec/blob/main/codes/RAG_VisualRec.ipynb)
+- [RAG-VisualRec](https://github.com/RecSys-lab/RAG-VisualRec/blob/main/codes/RAG_VisualRec.ipynb)
 
 ## 📊 Evaluation and Visualization
 - [Bar Chart - Ablation Study](https://github.com/RecSys-lab/RAG-VisualRec/blob/main/codes/bar_chart_evaluation.ipynb)
