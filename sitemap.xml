@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://recsys-lab.github.io/rag-visualrec/</loc>
+         <lastmod>2025-08-24</lastmod>
+    </url>
+    <url>
+         <loc>https://recsys-lab.github.io/rag-visualrec/codes/</loc>
+         <lastmod>2025-08-24</lastmod>
+    </url>
+    <url>
+         <loc>https://recsys-lab.github.io/rag-visualrec/configs/</loc>
+         <lastmod>2025-08-24</lastmod>
+    </url>
+    <url>
+         <loc>https://recsys-lab.github.io/rag-visualrec/pipeline/</loc>
+         <lastmod>2025-08-24</lastmod>
+    </url>
+</urlset>
