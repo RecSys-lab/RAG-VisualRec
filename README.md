@@ -1,12 +1,12 @@
 # RAG-VisualRec
 
-This repository contains a resource of an open resource for vision and text-enhanced Retrieval-Augmented Generation (RAG) in the recommendation domain. RAG-VisualRec provides a new, reproducible test‑bed for multimodal RAG research. It is designed as a transparent, modular, and extensible resource for rigorous multimodal recommendation research, with a primary goal of bridging the gap between theoretical advances (e.g., fusion techniques, textual data augmentation, multi-modal retrieval, augmented generation) and practical, reproducible workflows that any researcher can adapt or extend.
+This repository contains a resource of an open resource for **vision and text-enhanced Retrieval-Augmented Generation (RAG)** in the recommendation domain. **RAG-VisualRec** provides a new, reproducible test‑bed for multimodal RAG research. It is designed as a transparent, modular, and extensible resource for rigorous multimodal recommendation research, with a primary goal of bridging the gap between theoretical advances (e.g., fusion techniques, textual data augmentation, multi-modal retrieval, augmented generation) and practical, reproducible workflows that any researcher can adapt or extend.
 
 ![RAG-VisualRec](./docs/RAG-VisualRec.png "RAG-VisualRec")
 
 ## 🧠 Architecture
 
-The pipeline contains below steps:
+The overall pipeline of **RAG-VisualRec** contains below steps:
 
 - Data preparation and Ingestion, starting with MovieLens (`latest-small` and `1M`) dataset
 - Multimodal embedding extraction (including textual, visual, and audio)
