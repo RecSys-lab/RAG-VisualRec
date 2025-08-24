@@ -1,9 +1,10 @@
-# 🚀 Run the Framework
+# RAG-VisualRec Pipeline
 
-## 💻 Notebooks
+Here you can find **Google Colab** notebooks related to RAG-VisualRec in the below:
 
-Click the buttons below to open the corresponding Google Colab notebooks:
+## 🚀 Pipeline
+- [RAG-VisualRec Pipeline](https://github.com/RecSys-lab/RAG-VisualRec/blob/main/codes/RAG_VisualRec.ipynb)
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/RecSys-lab/RAG-VisualRec/blob/main/codes/visual_embeddings_extractor.ipynb) **Visual embedding extractor pipeline**
-
----
+## 📊 Evaluation and Visualization
+- [Bar Chart - Ablation Study](https://github.com/RecSys-lab/RAG-VisualRec/blob/main/codes/bar_chart_evaluation.ipynb)
+- [Radar Chart - Modality Impact](https://github.com/RecSys-lab/RAG-VisualRec/blob/main/codes/radar_chart_evaluation.ipynb)
