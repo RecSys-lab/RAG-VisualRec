@@ -1,25 +1,5 @@
 # 👣 Pipeline Walkthrough
 
-<!-- ```mermaid
-flowchart TD
-    A[📂 Data Preparation<br/>Load MovieLens + Metadata] --> B[🧩 Embedding Extraction<br/>Text • Visual • Audio]
-    B --> C[🔀 Fusion<br/>Concat • PCA • CCA • Avg]
-    C --> D[👤 User Embedding<br/>Random • Average • Temporal]
-    D --> E[🔎 Candidate Retrieval<br/>kNN Top-N Search]
-    E --> F[📝 Profile Augmentation<br/>Manual or LLM-based]
-    F --> G[🤖 LLM Re-ranking<br/>ID-only or Explainable]
-    G --> H[📊 Evaluation & Logging<br/>Accuracy • Diversity • Fairness]
-
-    style A fill:#f9f9f9,stroke:#333,stroke-width:1px
-    style B fill:#e6f0ff,stroke:#333,stroke-width:1px
-    style C fill:#e6f0ff,stroke:#333,stroke-width:1px
-    style D fill:#fff2cc,stroke:#333,stroke-width:1px
-    style E fill:#fff2cc,stroke:#333,stroke-width:1px
-    style F fill:#f2e6ff,stroke:#333,stroke-width:1px
-    style G fill:#f2e6ff,stroke:#333,stroke-width:1px
-    style H fill:#d9ead3,stroke:#333,stroke-width:1px
-``` -->
-
 ## 1️⃣ Data Preparation and Ingestion
 
 We start by loading data from **MovieLens (small or 1M)**.
