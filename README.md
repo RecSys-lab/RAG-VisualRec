@@ -23,7 +23,7 @@ The whole framework is fully configurable through a centralized parameter block 
 
 ## 📚 Citation
 
-This research is accepted in [ACM Transactions on Recommender Systems](https://doi.org/10.1145/381868).
+This research is accepted in [ACM Transactions on Recommender Systems](https://doi.org/10.1145/3818681).
 
 ```bibtex
 @article{tourani2025rag,
