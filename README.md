@@ -1,6 +1,6 @@
 # RAG-VisualRec
 
-This repository contains a resource of an open resource for **vision and text-enhanced Retrieval-Augmented Generation (RAG)** in the recommendation domain. **RAG-VisualRec** provides a new, reproducible test‑bed for multimodal RAG research. It is designed as a transparent, modular, and extensible resource for rigorous multimodal recommendation research, with a primary goal of bridging the gap between theoretical advances (e.g., fusion techniques, textual data augmentation, multi-modal retrieval, augmented generation) and practical, reproducible workflows that any researcher can adapt or extend.
+This repository contains a resource of an open resource for **vision and text-enhanced Retrieval-Augmented Generation (RAG)** in the recommendation domain. **RAG-VisualRec** provides a new, reproducible test‑bed for multimodal RAG research. It is designed as a transparent, modular, and extensible resource for rigorous multimodal recommendation research, with a primary goal of bridging the gap between theoretical advances (e.g., fusion techniques, textual data augmentation, multi-modal retrieval, and augmented generation) and practical, reproducible workflows that any researcher can adapt or extend.
 
 ![RAG-VisualRec](./docs/RAG-VisualRec.png "RAG-VisualRec")
 
@@ -29,9 +29,9 @@ This research is submitted to [ACM Transactions on Recommender Systems](https://
 @article{tourani2025rag,
   title={RAG-VisualRec: An Open Resource for Vision-and Text-Enhanced Retrieval-Augmented Generation in Recommendation},
   author={Tourani, Ali and Nazary, Fatemeh and Deldjoo, Yashar},
-  journal={arXiv preprint arXiv:2506.20817},
-  year={2025}
-  doi={https://doi.org/10.48550/arXiv.2506.20817}
+  journal={ACM Transactions on Recommender Systems},
+  year={2026}
+  doi={[https://doi.org/10.48550/arXiv.2506.20817](https://doi.org/10.1145/3818681)}
 }
 ```
 
