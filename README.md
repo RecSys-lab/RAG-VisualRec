@@ -6,12 +6,12 @@ This repository contains a resource of an open resource for **vision and text-en
 
 ## 🧠 Architecture
 
-The overall pipeline of **RAG-VisualRec** contains below steps:
+The overall pipeline of **RAG-VisualRec** contains the following steps:
 
-- Data preparation and Ingestion, starting with MovieLens (`latest-small` and `1M`) dataset
+- Data preparation and Ingestion, starting with the MovieLens (`latest-small` and `1M`) dataset
 - Multimodal embedding extraction (including textual, visual, and audio)
 - Applying fusion strategies (e.g., concatenation, PCA, CCA)
-- Applying user embedding construction (random, averag, or temporal)
+- Applying user embedding construction (random, average, or temporal)
 - Candidate retrieval
 - Profile augmentation and LLM prompting (manual or LLM-based)
 - Evaluation and logging (accuracy, beyond-accuracy, fairness/robustness)
@@ -23,7 +23,7 @@ The whole framework is fully configurable through a centralized parameter block 
 
 ## 📚 Citation
 
-This research is submitted to [ACM Transactions on Recommender Systems](https://dl.acm.org/journal/tors).
+This research is accepted in [ACM Transactions on Recommender Systems](https://doi.org/10.1145/381868).
 
 ```bibtex
 @article{tourani2025rag,
@@ -31,7 +31,7 @@ This research is submitted to [ACM Transactions on Recommender Systems](https://
   author={Tourani, Ali and Nazary, Fatemeh and Deldjoo, Yashar},
   journal={ACM Transactions on Recommender Systems},
   year={2026}
-  doi={[https://doi.org/10.48550/arXiv.2506.20817](https://doi.org/10.1145/3818681)}
+  doi={https://doi.org/10.1145/3818681}
 }
 ```
 
